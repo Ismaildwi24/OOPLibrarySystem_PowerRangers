@@ -67,4 +67,5 @@ Sistem dikembangkan dengan arsitektur **MVC (Model-View-Controller)**:
 
 1. Clone repo:  
    ```bash
-   git clone [https://github.com/Ismaildwi24/OOPLibrarySystem_PowerRangers.git]
+   [git clone [https://github.com/Ismaildwi24/OOPLibrarySystem_PowerRangers.git]
+](https://github.com/Ismaildwi24/OOPLibrarySystem_PowerRangers.git)
