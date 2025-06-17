@@ -37,3 +37,34 @@ Sistem dikembangkan dengan arsitektur **MVC (Model-View-Controller)**:
 
 ## 📂 Folder Structure
 
+
+## 🛠️ Technologies
+
+- Java 11+
+- JavaFX (FXML)
+- CSV File I/O
+- OOP Principles (Encapsulation, Inheritance, Polymorphism)
+- IDE: IntelliJ IDEA / Eclipse
+
+## 📅 Milestones
+
+| Phase                    | Output                                 |
+|--------------------------|----------------------------------------|
+| Week 1: Setup & Design   | IDE setup, mockup UI, class diagram    |
+| Week 2: Core & CRUD      | Book/Member CRUD, model classes        |
+| Week 3: GUI Integration  | JavaFX UI, borrow-return logic         |
+| Week 4: Testing & Docs   | Unit tests, dokumentasi, presentasi    |
+
+## 📈 Learning Outcomes Covered
+
+✅ Control structures, methods, data types  
+✅ OOP concepts: classes, inheritance, polymorphism  
+✅ JavaFX UI & Event Handling  
+✅ File I/O with CSV, Exception Handling  
+✅ Spiral model development & debugging
+
+## 📥 How to Run
+
+1. Clone repo:  
+   ```bash
+   git clone https://github.com/yourusername/OOPLibrarySystem_TeamX.git
