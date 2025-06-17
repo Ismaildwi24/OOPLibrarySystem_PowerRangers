@@ -9,11 +9,11 @@ Presentasi: 20–26 Juni 2025
 
 ## 👨‍👩‍👦 Team Members
 
-| No | Name                 | Role                     |
-|----|----------------------|--------------------------|
+| No | Name                   | Role                     |
+|----|------------------------|--------------------------|
 | 1  | Ismail Dwi M. Anugerah | Lead Developer & Documentation |
-| 2  | [Nama Anggota 2]     | Backend Specialist       |
-| 3  | [Nama Anggota 3]     | Frontend Specialist      |
+| 2  | Abi Danadhyaksa        | Backend Specialist       |
+| 3  | Mahligai Arsya Nanda   | Frontend Specialist      |
 
 ## 📌 Project Overview
 
