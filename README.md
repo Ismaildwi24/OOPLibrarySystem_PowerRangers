@@ -1,1 +1,39 @@
-# OOPLibrarySystem_PowerRangers
+# 📚 OOPLibrarySystem_TeamX
+
+**Final Project — Object Oriented Programming (OOP)**  
+Universitas Muhammadiyah Malang  
+Dosen: Ir. Galih Wasis Wicaksono, S.Kom., M.Cs.  
+Kelas: 2A / 2B  
+Deadline: 19 Juni 2025  
+Presentasi: 20–26 Juni 2025
+
+## 👨‍👩‍👦 Team Members
+
+| No | Name                 | Role                     |
+|----|----------------------|--------------------------|
+| 1  | Ismail Dwi M. Anugerah | Lead Developer & Documentation |
+| 2  | [Nama Anggota 2]     | Backend Specialist       |
+| 3  | [Nama Anggota 3]     | Frontend Specialist      |
+
+## 📌 Project Overview
+
+**OOPLibrarySystem** adalah sistem informasi perpustakaan kampus berbasis Java yang dirancang untuk menggantikan proses manual dengan antarmuka pengguna grafis menggunakan JavaFX. Sistem ini mencakup manajemen koleksi buku, proses peminjaman dan pengembalian, serta laporan aktivitas perpustakaan.
+
+## 🧩 Features
+
+- 🔐 **Login** untuk Admin dan Member
+- 📖 **Manajemen Buku** (CRUD, pencarian)
+- 🧑‍🎓 **Registrasi Member** dengan validasi ID/email unik
+- 📚 **Peminjaman & Pengembalian Buku** otomatis 7 hari, kalkulasi denda
+- 📊 **Laporan & Statistik** bulanan
+- ⚠️ **Dialog Konfirmasi & Notifikasi** berbasis JavaFX
+
+## 🏗️ Architecture
+
+Sistem dikembangkan dengan arsitektur **MVC (Model-View-Controller)**:
+- **Model**: Book, Member, Transaction, LibraryManager
+- **View**: JavaFX (FXML/SceneBuilder)
+- **Controller**: Mengatur interaksi pengguna & logika sistem
+
+## 📂 Folder Structure
+
