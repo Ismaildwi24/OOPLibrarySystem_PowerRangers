@@ -13,9 +13,9 @@ Presentasi: 20–26 Juni 2025
 
 | No | Name                    | NIM              | Role                          |
 |----|-------------------------|------------------|-------------------------------|
-| 1  | Ismail Dwi M. Anugerah  | 2022103703110013 | Lead Developer & Documentation|
-| 2  | Abi Danadhyaksa         | 2022103703110047 | Backend Specialist            |
-| 3  | Mahligai Arsya Nanda    | 2022103703110056 | Frontend Specialist           |
+| 1  | Ismail Dwi M. Anugerah  | 2024103703110013 | Lead Developer & Documentation|
+| 2  | Abi Danadhyaksa         | 2024103703110047 | Backend Specialist            |
+| 3  | Mahligai Arsya Nanda    | 2024103703110056 | Frontend Specialist           |
 
 ---
 
