@@ -11,11 +11,11 @@ Presentasi: 20–26 Juni 2025
 
 ## 👨‍👩‍👦 Team Members
 
-| No | Name                    | Role                          |
-|----|-------------------------|-------------------------------|
-| 1  | Ismail Dwi M. Anugerah | Lead Developer & Documentation |
-| 2  | Abi Danadhyaksa         | Backend Specialist            |
-| 3  | Mahligai Arsya Nanda    | Frontend Specialist           |
+| No | Name                    | NIM              | Role                          |
+|----|-------------------------|------------------|-------------------------------|
+| 1  | Ismail Dwi M. Anugerah  | 2022103703110013 | Lead Developer & Documentation|
+| 2  | Abi Danadhyaksa         | 2022103703110047 | Backend Specialist            |
+| 3  | Mahligai Arsya Nanda    | 2022103703110056 | Frontend Specialist           |
 
 ---
 
@@ -57,17 +57,7 @@ Semua data (buku, user, transaksi) disimpan di **MySQL** dan diakses melalui **J
 - **MySQL** (dengan JDBC)
 - **Maven** untuk dependency management
 - **IntelliJ IDEA / Eclipse** sebagai IDE
-
----
-
-## 👨‍👩‍👦 Team Members
-
-| No | Name                    | NIM              | Role                          |
-|----|-------------------------|------------------|-------------------------------|
-| 1  | Ismail Dwi M. Anugerah  | 2022103703110013 | Lead Developer & Documentation|
-| 2  | Abi Danadhyaksa         | 2022103703110047 | Backend Specialist            |
-| 3  | Mahligai Arsya Nanda    | 2022103703110056 | Frontend Specialist           |
-
+  
 ---
 
 ## 🧠 Learning Outcomes
