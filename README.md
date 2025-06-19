@@ -1,4 +1,4 @@
-# 📚 OOPLibrarySystem_TeamX
+# 📚 OOPLibrarySystem_PowerRangers
 
 **Final Project — Object Oriented Programming (OOP)**  
 Universitas Muhammadiyah Malang  
