@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📚 OOPLibrarySystem_TeamX
 
 **Final Project — Object Oriented Programming (OOP)**  
