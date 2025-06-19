@@ -19,6 +19,14 @@ Presentasi: 20–26 Juni 2025
 
 ---
 
+## 🎥 Link Video Instalasi dan Pengenalan Fitur-Fitur Web
+
+- **Link Video Instalasi:** (https://drive.google.com/file/d/1sVCrX3h98OWWl9HDXAuODxVdPgMEac-r/view?usp=drive_link)  
+- **Link Fitur Web:** (https://drive.google.com/file/d/19NX8QzkebLeOaTnm6Al3q95F6mNvZxFJ/view?usp=drive_link)
+
+
+---
+
 ## 📌 Project Overview
 
 **OOPLibrarySystem** adalah sistem informasi perpustakaan berbasis desktop yang dibangun dengan Java dan JavaFX. Aplikasi ini dirancang untuk membantu pengelolaan perpustakaan secara digital, termasuk pencatatan buku, proses peminjaman-pengembalian, dan pembuatan laporan.  
