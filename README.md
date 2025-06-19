@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📚 OOPLibrarySystem_TeamX
 
 **Final Project — Object Oriented Programming (OOP)**  
@@ -69,3 +70,40 @@ Sistem dikembangkan dengan arsitektur **MVC (Model-View-Controller)**:
    ```bash
    [git clone [https://github.com/Ismaildwi24/OOPLibrarySystem_PowerRangers.git]
 ](https://github.com/Ismaildwi24/OOPLibrarySystem_PowerRangers.git)
+=======
+# Portal Perpustakaan Mahasiswa
+
+Aplikasi desktop untuk mengelola peminjaman buku perpustakaan oleh mahasiswa.
+
+## Persyaratan Sistem
+
+- Java Development Kit (JDK) 17 atau lebih baru
+- Maven 3.6.0 atau lebih baru
+
+## Cara Menjalankan Aplikasi
+
+1. Pastikan JDK dan Maven sudah terinstal di sistem Anda
+2. Buka terminal/command prompt
+3. Masuk ke direktori proyek
+4. Jalankan perintah berikut untuk mengunduh dependensi:
+   ```
+   mvn clean install
+   ```
+5. Jalankan aplikasi dengan perintah:
+   ```
+   mvn javafx:run
+   ```
+
+## Fitur Aplikasi
+
+- Dashboard dengan statistik peminjaman
+- Peminjaman buku
+- Riwayat peminjaman
+- Perpanjangan peminjaman
+- Rekomendasi buku
+
+## Struktur Proyek
+
+- `src/Main.java` - File utama aplikasi
+- `pom.xml` - Konfigurasi Maven dan dependensi
+>>>>>>> e2c9a35 (Final Project OOP Team Power Rangers)

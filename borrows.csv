@@ -1,0 +1,2 @@
+"ID","BookID","StudentID","BorrowDate","DueDate","ReturnDate","Status"
+"BRW1749600187035","B001","Ismail","2025-06-11","2025-06-25","null","BORROWED"

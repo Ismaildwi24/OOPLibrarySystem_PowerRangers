@@ -1,0 +1,9 @@
+id,title,author,isbn,category,status,quantity
+B001,3726-MDPL,F. Scott Fitzgerald,978-0-7432-7356-5,Fiction,Available,4
+B002,Puisi Sijo,Harper Lee,978-0-06-112008-4,Fiction,Available,3
+B003,Original Me,Oracle Press,978-1-260-44077-1,Technology,Available,10
+B004,Jujutsu Kaisen,Robert Lafore,978-0-672-32425-4,Technology,Issued,2
+B005,Algoritma dan Pemrograman,John Smith,978-0-123-45678-9,Computer Science,Available,8
+B006,Matematika Diskrit,Jane Doe,978-0-987-65432-1,Mathematics,Available,4
+B007,Pemrograman Java,David Wilson,978-0-456-78901-2,Computer Science,Available,6
+B008,Struktur Data,Michael Brown,978-0-789-01234-5,Computer Science,Available,7
